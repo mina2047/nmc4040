@@ -22,7 +22,7 @@
 
 
 {
-    'name': 'Journal Entries Print',
+    'name': 'Journal Entries Print.',
     'version': '14',
     'category': 'account',
     'sequence': 9,
